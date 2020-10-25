@@ -14,7 +14,7 @@ sentence and returns that same sentence with each word reversed in place.
 
 First solve it using `.each` Then utilize the same method using `.collect` to
 see the difference.
-
+7
 For example:
 
 ```ruby
